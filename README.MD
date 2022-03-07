@@ -4,4 +4,4 @@
     Projetinho feito através do vídeo do canal Fernando Leonid.
 </p>
 
-<a href="youtube.com/watch?v=oGEYs52ZuHY">Vídeo</a>
+<a href="https://youtube.com/watch?v=oGEYs52ZuHY">Vídeo</a>
